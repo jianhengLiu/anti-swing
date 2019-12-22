@@ -6,8 +6,8 @@
 
 **无算法控制**
 
-<video src="videos/anti-swing_withoutcontrol.mp4"></video>
+**![anti-swing_withoutcontrol_gif](README.assets/anti-swing_withoutcontrol_gif.gif)**
 
 **有算法控制**
 
-<video src="videos/anti-swing_undercontrol.mp4"></video>
+**![anti-swing_undercontrol_gif](README.assets/anti-swing_undercontrol_gif.gif)**
